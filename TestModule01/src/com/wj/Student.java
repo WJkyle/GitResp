@@ -1,4 +1,4 @@
-package TestModule01;
+package com.wj;
 
 public class Student {
     private int age;
